@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rakib544/sass-practise/issues"
   },
-  "homepage": "https://github.com/Rakib544/sass-practise#readme"
+  "homepage": "https://github.com/Rakib544/sass-practise#readme",
+  "dependencies": {
+    "node-sass": "^7.0.0"
+  }
 }
